@@ -25,7 +25,7 @@ import java.util.List;
  * DIP: depende de las abstracciones IUserRepository e IPasswordHasher,
  * inyectadas por constructor, nunca de una implementacion concreta.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class UserService {
 

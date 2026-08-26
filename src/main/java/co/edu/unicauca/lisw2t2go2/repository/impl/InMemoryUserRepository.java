@@ -16,7 +16,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  *  - Ejemplificar OCP/DIP: se puede sustituir por {@link SQLiteUserRepository}
  *    sin cambiar ni una linea de la logica de negocio.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class InMemoryUserRepository implements IUserRepository {
 

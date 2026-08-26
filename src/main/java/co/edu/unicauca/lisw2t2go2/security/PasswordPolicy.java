@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
  * la misma forma de uso (metodo estatico simple por ahora; se puede
  * extraer a una interfaz IPasswordPolicy si llegan a coexistir varias).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public final class PasswordPolicy {
 

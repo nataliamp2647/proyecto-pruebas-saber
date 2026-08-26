@@ -20,7 +20,7 @@ import co.edu.unicauca.lisw2t2go2.service.UserService;
  * demas (UserService, AuthService) programa contra la interfaz y no le
  * importa si por debajo hay una lista en memoria o una base SQLite.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class Main {
 

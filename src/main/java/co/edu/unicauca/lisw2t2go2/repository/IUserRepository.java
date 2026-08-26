@@ -18,7 +18,7 @@ import java.util.Optional;
  * Preguntas, esas entidades tendrian su propio repositorio en vez de
  * agregar metodos aqui.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public interface IUserRepository {
 

@@ -5,7 +5,7 @@ package co.edu.unicauca.lisw2t2go2.exception;
  * El mensaje es intencionalmente generico para no revelar si el usuario
  * existe o si la contrasena fue la incorrecta (buena practica de seguridad).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class InvalidCredentialsException extends RuntimeException {
     public InvalidCredentialsException() {

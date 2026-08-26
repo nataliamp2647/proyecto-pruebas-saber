@@ -14,7 +14,7 @@ package co.edu.unicauca.lisw2t2go2.domain;
  * use nombres de enum comodos e inequivocos, sin obligar a modificar
  * los datos ya guardados en la base.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public enum Role {
     ADMINISTRADOR("Administrador"),

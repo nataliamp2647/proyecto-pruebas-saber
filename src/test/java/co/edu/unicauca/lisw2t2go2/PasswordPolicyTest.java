@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  * minimo 6 caracteres, al menos un digito, al menos un caracter
  * especial y al menos una mayuscula.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 class PasswordPolicyTest {
 

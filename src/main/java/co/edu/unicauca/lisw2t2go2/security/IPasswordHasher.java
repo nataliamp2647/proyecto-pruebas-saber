@@ -7,7 +7,7 @@ package co.edu.unicauca.lisw2t2go2.security;
  * algoritmo concreto. Hoy puede ser SHA-256+sal; manana se puede
  * reemplazar por BCrypt/Argon2 sin tocar la logica de negocio.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public interface IPasswordHasher {
 

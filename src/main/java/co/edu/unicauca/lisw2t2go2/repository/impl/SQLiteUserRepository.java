@@ -26,7 +26,7 @@ import java.util.logging.Logger;
  * AuthService conocen su existencia; solo conocen la interfaz
  * IUserRepository (DIP).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class SQLiteUserRepository implements IUserRepository {
 

@@ -33,7 +33,7 @@ import java.util.Optional;
  * negocio (validaciones, unicidad de username, hashing, persistencia) en
  * UserService (SRP). No conoce IUserRepository ni SQLite en absoluto.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class UserAdminView {
 

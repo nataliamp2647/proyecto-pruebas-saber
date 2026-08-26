@@ -27,7 +27,7 @@ import java.util.Optional;
  * ni de reglas de negocio (esas viven en UserService). Es responsabilidad
  * unica: "presentar y validar el formulario" (SRP).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class UserFormDialog {
 

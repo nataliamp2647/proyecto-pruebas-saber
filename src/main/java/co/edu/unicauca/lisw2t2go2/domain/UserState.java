@@ -7,7 +7,7 @@ package co.edu.unicauca.lisw2t2go2.domain;
  * en minuscula) tal como esta escrito en la base de datos SQLite
  * existente, para no tener que migrar los datos ya guardados.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public enum UserState {
     ACTIVO("activo"),

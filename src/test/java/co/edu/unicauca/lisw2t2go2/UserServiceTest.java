@@ -22,7 +22,7 @@ import static org.junit.jupiter.api.Assertions.*;
  * UserService/AuthService no dependen de la implementacion concreta:
  * eso es la prueba viva del principio DIP aplicado en este proyecto.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 class UserServiceTest {
 

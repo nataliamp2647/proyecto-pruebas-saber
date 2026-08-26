@@ -18,7 +18,7 @@ import java.util.Base64;
  * interfaz IPasswordHasher (DIP), cambiar el algoritmo en el futuro no
  * afecta a UserService ni a AuthService.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class Sha256PasswordHasher implements IPasswordHasher {
 

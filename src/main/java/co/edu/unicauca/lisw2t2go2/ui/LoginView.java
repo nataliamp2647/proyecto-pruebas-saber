@@ -24,7 +24,7 @@ import javafx.stage.Stage;
  * No sabe nada de SQLite, hashing, etc. (DIP: depende de abstracciones de
  * la capa de servicio, no de detalles de infraestructura).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class LoginView {
 

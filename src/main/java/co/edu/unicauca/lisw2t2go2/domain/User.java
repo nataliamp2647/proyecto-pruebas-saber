@@ -10,7 +10,7 @@ import java.util.Objects;
  * Esas responsabilidades viven en las clases de repositorio y servicio
  * respectivamente (principio de responsabilidad unica - SRP).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class User {
 

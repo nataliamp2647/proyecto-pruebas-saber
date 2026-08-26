@@ -21,7 +21,7 @@ import javafx.stage.Stage;
  * etc.) solo conoce UserService/AuthService, nunca la base de datos
  * directamente (DIP).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class AppLauncher extends Application {
 

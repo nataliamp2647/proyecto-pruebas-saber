@@ -17,7 +17,7 @@ import javafx.stage.Stage;
  * (no una condicion dentro de LoginView) para que agregar la pantalla
  * real de cada rol despues no obligue a modificar el login (OCP).
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class BlankHomeView {
 

@@ -18,7 +18,7 @@ import co.edu.unicauca.lisw2t2go2.security.IPasswordHasher;
  * MFA, etc.) pueden evolucionar de forma independiente a las reglas de
  * registro y administracion de usuarios.
  *
- * @author Claude
+ * @author David Santiago Cruz Varón, Juan Felipe Gallardo Orozco
  */
 public class AuthService {
 
