@@ -1,0 +1,62 @@
+# Doxyfile 1.10 - Configuración para PatronCapasMicroPatronMVC
+# Genera la documentación técnica del proyecto a partir de los
+# comentarios Doxygen (@brief, @param, @return, etc.) presentes en el
+# código fuente Java.
+#
+# Uso:
+#   doxygen Doxyfile
+# La documentación HTML resultante queda en ./doc/html/index.html
+
+#---------------------------------------------------------------------------
+# Información del proyecto
+#---------------------------------------------------------------------------
+PROJECT_NAME           = "PatronCapasMicroPatronMVC"
+PROJECT_BRIEF           = "Aplicacion Java Swing en capas (presentation/domain/access/infra) con micropatron MVC y patron Observer"
+PROJECT_NUMBER          = "1.0-SNAPSHOT"
+OUTPUT_LANGUAGE         = Spanish
+OUTPUT_DIRECTORY        = doc
+
+#---------------------------------------------------------------------------
+# Configuración de entrada
+#---------------------------------------------------------------------------
+INPUT                   = src/main/java
+RECURSIVE               = YES
+FILE_PATTERNS           = *.java
+EXTENSION_MAPPING       = java=Java
+
+#---------------------------------------------------------------------------
+# Modo de extracción / estilo Java
+#---------------------------------------------------------------------------
+OPTIMIZE_OUTPUT_JAVA    = YES
+JAVADOC_AUTOBRIEF       = YES
+EXTRACT_ALL             = YES
+EXTRACT_PRIVATE         = YES
+EXTRACT_STATIC          = YES
+EXTRACT_PACKAGE         = YES
+HIDE_UNDOC_MEMBERS      = NO
+HIDE_UNDOC_CLASSES      = NO
+
+#---------------------------------------------------------------------------
+# Diagramas (requiere Graphviz instalado; se puede desactivar con NO)
+#---------------------------------------------------------------------------
+HAVE_DOT                = YES
+CLASS_DIAGRAMS          = YES
+UML_LOOK                = YES
+CALL_GRAPH               = NO
+CALLER_GRAPH             = NO
+
+#---------------------------------------------------------------------------
+# Salida
+#---------------------------------------------------------------------------
+GENERATE_HTML           = YES
+GENERATE_LATEX          = NO
+GENERATE_TREEVIEW       = YES
+SOURCE_BROWSER          = YES
+INLINE_SOURCES          = NO
+
+#---------------------------------------------------------------------------
+# Otros
+#---------------------------------------------------------------------------
+QUIET                   = NO
+WARNINGS                = YES
+WARN_IF_UNDOCUMENTED    = YES

@@ -1,0 +1,13 @@
+co\unicauca\lisw2t4g02\domain\Question.class
+co\unicauca\lisw2t4g02\domain\QuestionDistractors.class
+co\unicauca\lisw2t4g02\presentation\GUIObserver2.class
+co\unicauca\lisw2t4g02\domain\Question$EstadoPregunta.class
+co\unicauca\lisw2t4g02\domain\QuestionRepository.class
+co\unicauca\lisw2t4g02\access\QuestionImplRepository.class
+co\unicauca\lisw2t4g02\infra\Observer.class
+co\unicauca\lisw2t4g02\domain\QuestionService.class
+co\unicauca\lisw2t4g02\Application.class
+co\unicauca\lisw2t4g02\presentation\GUIObserver2$PanelGraficoPastel.class
+co\unicauca\lisw2t4g02\presentation\GUIQuestions.class
+co\unicauca\lisw2t4g02\infra\Subject.class
+co\unicauca\lisw2t4g02\presentation\GUIObserver1.class

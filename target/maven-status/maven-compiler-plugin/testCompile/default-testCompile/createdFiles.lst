@@ -1,0 +1,9 @@
+co\unicauca\lisw2t4g02\domain\QuestionTest.class
+co\unicauca\lisw2t4g02\infra\SubjectTest.class
+co\unicauca\lisw2t4g02\domain\QuestionServiceTest$RegistroObserver.class
+co\unicauca\lisw2t4g02\domain\FakeQuestionRepository.class
+co\unicauca\lisw2t4g02\infra\SubjectTest$SubjectDePrueba.class
+co\unicauca\lisw2t4g02\infra\SubjectTest$ObserverEspia.class
+co\unicauca\lisw2t4g02\domain\QuestionServiceTest.class
+co\unicauca\lisw2t4g02\domain\EstadoPreguntaTest.class
+co\unicauca\lisw2t4g02\domain\QuestionDistractorsTest.class
