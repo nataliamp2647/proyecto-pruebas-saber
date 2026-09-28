@@ -1,0 +1,9 @@
+target/
+*.db
+*.class
+.vscode/
+.idea/
+*.iml
+
+.mvn-settings.xml
+.maven-repository/
